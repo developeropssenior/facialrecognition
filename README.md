@@ -63,6 +63,3 @@ python reconhecedor_eigenfaces.py || python reconhecedor_fisherfaces.py || pytho
 * [Numpy](https://numpy.org/) - Numpy
 * [Python](https://www.python.org/) - Python
 
-## Authors
-
-* **David Lucas** - *Initial work* - [david-luk4s](https://github.com/david-luk4s)
